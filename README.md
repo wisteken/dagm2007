@@ -6,8 +6,8 @@
 ![2](https://github.com/kentaro-fujita/DAGM2007/blob/master/スライド画像/Top_2.PNG)
   
 ## ・傷検出モデル
-* [AutoEncoderを用いたモデル](https://github.com/kentaro-fujita/DAGM2007/blob/master/AutoEncoder)  
-* [回帰畳み込みニューラルネットワーク(CNN)を用いたモデル](https://github.com/kentaro-fujita/DAGM2007/blob/master/回帰CNN) 
+* [AutoEncoderを用いた手法](https://github.com/kentaro-fujita/DAGM2007/blob/master/AutoEncoder)  
+* [CNN回帰モデルを用いた手法](https://github.com/kentaro-fujita/DAGM2007/blob/master/回帰CNN) 
   
 ## ・補足資料([**資料**](https://github.com/kentaro-fujita/DAGM2007/blob/master/補足資料.pdf))  
 * 使用した特徴量の説明
