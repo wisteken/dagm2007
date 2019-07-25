@@ -5,6 +5,6 @@
 ![1](https://github.com/kentaro-fujita/DAGM2007/blob/master/スライド画像/Top_1.jpeg)
 ![2](https://github.com/kentaro-fujita/DAGM2007/blob/master/スライド画像/Top_2.jpeg)
   
-## ・データセットの評価方法  
-*AutoEncoderの利用  
-*回帰畳み込みニューラルネットワーク(CNN)の利用  
+## ・傷検出モデル
+１，[AutoEncoderを用いたモデル](https://github.com/kentaro-fujita/DAGM2007/blob/master/AutoEncoder)  
+２，[回帰畳み込みニューラルネットワーク(CNN)を用いたモデル](https://github.com/kentaro-fujita/DAGM2007/blob/master/回帰CNN)  
